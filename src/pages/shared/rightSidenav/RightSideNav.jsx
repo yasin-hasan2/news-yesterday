@@ -10,7 +10,7 @@ const RightSideNav = () => {
     <div className="px-3 ">
       <div className="p-4 space-y-3">
         <h2>Login With </h2>
-        <button className="btn w-full btn-outline">
+        <button className="  btn w-full btn-outline">
           <AiOutlineGoogle></AiOutlineGoogle>
           Google{" "}
         </button>
